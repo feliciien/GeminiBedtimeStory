@@ -45,6 +45,8 @@ Developed by Youknowsthevibes.
 ### Support
 
 For any issues or inquiries, please reach out to [feliciien@gmail.com](mailto:feliciien@gmail.com).
+<img width="1452" alt="Screenshot 2023-12-16 at 1 34 56 AM" src="https://github.com/feliciien/GeminiBedtimeStory/assets/116520199/ce0fa9fb-c578-496d-bc11-c5dd385e43d3">
+
 
 ### License
 
