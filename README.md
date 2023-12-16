@@ -16,7 +16,7 @@ Follow these steps to deploy the project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/feliciien/bedtime-story-generator.git
+   git clone https://github.com/feliciien/GeminiBedtimeStory.git
    cd bedtimestory
 
 To install the required dependencies, run the following command in your terminal:
